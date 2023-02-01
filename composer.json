@@ -9,8 +9,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": "^7.3.0",
-    "magento/framework": "~100.0.4"
+    "php": "^7.3.0"
   },
   "autoload": {
     "files": [ "registration.php" ],
